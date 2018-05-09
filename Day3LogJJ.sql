@@ -87,3 +87,4 @@ MariaDB [CSD2204S18]> desc customer;
 
 MariaDB [CSD2204S18]> insert into customer values(1, sagar, ss, toronto, M2J1M6, 25);
 ERROR 1054 (42S22): Unknown column 'sagar' in 'field list'
+MariaDB [CSD2204S18]> exit
